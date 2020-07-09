@@ -9,9 +9,8 @@ def unsafe?(speed)
   end
 end
 
-
-
 def not_safe?(speed)
+  75>60 ? 
 	
 end
 	
